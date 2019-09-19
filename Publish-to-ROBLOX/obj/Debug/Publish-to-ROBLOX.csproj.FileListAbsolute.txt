@@ -1,0 +1,7 @@
+C:\Users\( USERNAME )\Documents\GitHub\Publish-to-ROBLOX\Publish-to-ROBLOX\bin\Debug\Publish-to-ROBLOX.exe.config
+C:\Users\( USERNAME )\Documents\GitHub\Publish-to-ROBLOX\Publish-to-ROBLOX\bin\Debug\Publish-to-ROBLOX.exe
+C:\Users\( USERNAME )\Documents\GitHub\Publish-to-ROBLOX\Publish-to-ROBLOX\bin\Debug\Publish-to-ROBLOX.pdb
+C:\Users\( USERNAME )\Documents\GitHub\Publish-to-ROBLOX\Publish-to-ROBLOX\obj\Debug\Publish-to-ROBLOX.csprojAssemblyReference.cache
+C:\Users\( USERNAME )\Documents\GitHub\Publish-to-ROBLOX\Publish-to-ROBLOX\obj\Debug\Publish-to-ROBLOX.csproj.CoreCompileInputs.cache
+C:\Users\( USERNAME )\Documents\GitHub\Publish-to-ROBLOX\Publish-to-ROBLOX\obj\Debug\Publish-to-ROBLOX.exe
+C:\Users\( USERNAME )\Documents\GitHub\Publish-to-ROBLOX\Publish-to-ROBLOX\obj\Debug\Publish-to-ROBLOX.pdb
